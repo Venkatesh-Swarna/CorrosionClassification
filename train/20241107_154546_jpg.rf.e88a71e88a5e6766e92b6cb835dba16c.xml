@@ -1,0 +1,45 @@
+<annotation>
+	<folder></folder>
+	<filename>20241107_154546_jpg.rf.e88a71e88a5e6766e92b6cb835dba16c.jpg</filename>
+	<path>20241107_154546_jpg.rf.e88a71e88a5e6766e92b6cb835dba16c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Filiform Corrosion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>278</xmin>
+			<xmax>392</xmax>
+			<ymin>395</ymin>
+			<ymax>484</ymax>
+		</bndbox>
+		<polygon>
+			<x1>390.671495</x1>
+			<y1>429.008692</y1>
+			<x2>384.336494</x2>
+			<y2>394.13019</y2>
+			<x3>343.158788</x3>
+			<y3>405.227886</y3>
+			<x4>339.991352</x4>
+			<y4>413.154822</y4>
+			<x5>276.641075</x5>
+			<y5>443.277149</y5>
+			<x6>289.311078</x6>
+			<y6>482.911825</y6>
+			<x7>387.50406</x7>
+			<y7>455.960258</y7>
+			<x8>390.671495</x8>
+			<y8>429.008692</y8>
+		</polygon>
+	</object>
+</annotation>

@@ -1,0 +1,47 @@
+<annotation>
+	<folder></folder>
+	<filename>20241107_154544_jpg.rf.7a221b9b86027847c6a2bfe4b1931c2c.jpg</filename>
+	<path>20241107_154544_jpg.rf.7a221b9b86027847c6a2bfe4b1931c2c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Filiform Corrosion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>290</xmin>
+			<xmax>362</xmax>
+			<ymin>251</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+		<polygon>
+			<x1>357.412639</x1>
+			<y1>362.422515</y1>
+			<x2>360.580205</x2>
+			<y2>291.080099</y2>
+			<x3>338.407634</x3>
+			<y3>251.445423</y3>
+			<x4>322.570065</x4>
+			<y4>249.86001</y4>
+			<x5>319.295922</x5>
+			<y5>253.020408</y5>
+			<x6>294.062362</x6>
+			<y6>314.860904</y6>
+			<x7>289.311078</x7>
+			<y7>379.861668</y7>
+			<x8>317.818781</x8>
+			<y8>383.032494</y8>
+			<x9>357.412639</x9>
+			<y9>362.422515</y9>
+		</polygon>
+	</object>
+</annotation>

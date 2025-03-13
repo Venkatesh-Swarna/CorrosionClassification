@@ -1,0 +1,39 @@
+<annotation>
+	<folder></folder>
+	<filename>20241107_161201_jpg.rf.6fe6fbfca6f62457df3e2f097f469b45.jpg</filename>
+	<path>20241107_161201_jpg.rf.6fe6fbfca6f62457df3e2f097f469b45.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Uniform Corrosion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>233</xmin>
+			<xmax>431</xmax>
+			<ymin>143</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+		<polygon>
+			<x1>430.265484</x1>
+			<y1>164.249136</y1>
+			<x2>291.488435</x2>
+			<y2>141.790461</y2>
+			<x3>232.295933</x3>
+			<y3>635.109006</y3>
+			<x4>336.823786</x4>
+			<y4>639.86518</y4>
+			<x5>430.265484</x5>
+			<y5>164.249136</y5>
+		</polygon>
+	</object>
+</annotation>

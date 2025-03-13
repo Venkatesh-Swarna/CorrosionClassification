@@ -1,0 +1,43 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG-20241110-WA0209_jpg.rf.db9ce5fc00735e81b929c79a7757d9f3.jpg</filename>
+	<path>IMG-20241110-WA0209_jpg.rf.db9ce5fc00735e81b929c79a7757d9f3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crevice Corrosion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>268</xmin>
+			<xmax>402</xmax>
+			<ymin>30</ymin>
+			<ymax>337</ymax>
+		</bndbox>
+		<polygon>
+			<x1>356.994048</x1>
+			<y1>179.99132</y1>
+			<x2>390.319114</x2>
+			<y2>145.492312</y2>
+			<x3>400.909392</x3>
+			<y3>29.296875</y3>
+			<x4>266.666667</x4>
+			<y4>34.920635</y4>
+			<x5>319.833003</x5>
+			<y5>335.732887</y5>
+			<x6>367.319775</x6>
+			<y6>292.013889</y6>
+			<x7>356.994048</x7>
+			<y7>179.99132</y7>
+		</polygon>
+	</object>
+</annotation>
